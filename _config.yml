@@ -45,6 +45,8 @@ social:
     url: https://github.com/duyen21/
   - title: kaggle
     url: https://www.kaggle.com/duyen21/
+  - title: tableau
+    url: https://public.tableau.com/app/profile/duyen21/
 
 # Email content
 emails: '<a href="mailto:duyenngu@usc.edu" style="color: white;">duyenngu@usc.edu</a>'
