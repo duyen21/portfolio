@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: Duyen's Portfolio
+email: duyenngu@usc.edu
+url: https://duyen21.github.io/portfolio/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Data Analyst - Data Scientist - Excel, Python, SQL expert"
+meta_author: Duyen Nguyen
 
 # Google webmaster tools
 google_verify:
@@ -35,7 +35,7 @@ footer:
   copyright: Dr. Henry Jekyll
   social: Around the Web
   location: Shoot me an email at
-  credits: Have a coffee chat with me
+  credits: Schedule a coffee chat 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,7 +51,7 @@ address:
   - line: duyenngu@usc.edu
 
 # Credits content
-credits: '<a href="https://calendly.com/duyen21">Schedule at Calendly</a>.'
+credits: '<a href="https://calendly.com/duyen21" style="color: white;">Schedule at Calendly</a>'
 
 # Build settings
 markdown: kramdown
