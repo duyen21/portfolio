@@ -49,10 +49,12 @@ social:
     url: https://public.tableau.com/app/profile/duyen21/
 
 # Email content
-emails: '<a href="mailto:duyenngu@usc.edu" style="color: white;">duyenngu@usc.edu</a>'
+emails: <p><p>
+'<a href="mailto:duyenngu@usc.edu" style="color: white;">duyenngu@usc.edu</a>'
 
 # Credits content
-credits: '<a href="https://calendly.com/duyen21" style="color: white;">Schedule at Calendly</a>'
+credits: <p><p>
+'<a href="https://calendly.com/duyen21" style="color: white;">Schedule at Calendly</a>'
 
 # Build settings
 markdown: kramdown
