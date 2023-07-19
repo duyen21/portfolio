@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   social: Around the Web
-  location: Shoot me an email at
+  emails: Shoot me an email at
   credits: Have a coffee chat 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -46,9 +46,8 @@ social:
   - title: kaggle
     url: https://www.kaggle.com/duyen21/
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: <a href="mailto:duyenngu@usc.edu">duyenngu@usc.edu</a>
+# Email content
+emails: <a href="mailto:duyenngu@usc.edu">duyenngu@usc.edu</a>
 
 # Credits content
 credits: '<a href="https://calendly.com/duyen21" style="color: white;">Schedule at Calendly</a>'
